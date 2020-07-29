@@ -1,18 +1,31 @@
-### Тестовое задание
+# apartments_demo (task for job)
 
-Данное задание рассчитано на применение фреймворка - **react / vue / angular**
+## Install node dependencies
+```
+npm install
+```
 
-Задание рассчитано примерно на 4 часа.
+## Open the folder
+```
+cd apartments_demo
+```
 
-Задача:
+### Run the app
+```
+npm run serve
+```
 
-Сверстать страницу с карточками квартир, визуальная часть по желанию. На карточку квартиры добавить значок Like.
-С возможностью отметить понравившуюся квартиру.
+### Open the app in browser
 
-Верстка должна быть адаптивной. Данные корректно отображаться на всех разрешениях и устройствах.
+[http://localhost:8080/](http://localhost:8080/)
 
-Получение данных для отображения реализовать при помощи имитации получения данных по API.
 
-Условно считается что получаемые данные имеют формат entities.json
- 
+### Compiles and minifies for production
+```
+npm run build
+```
 
+### Lints and fixes files
+```
+npm run lint
+```
