@@ -1,13 +1,18 @@
-# apartments_demo (task for job)
+# Apartments demo (task for job)
 
-## Install node dependencies
+## Clone git repository
 ```
-npm install
+git clone https://github.com/nuronbeck/task_for_middle.git
 ```
 
 ## Open the folder
 ```
 cd apartments_demo
+```
+
+## Install node dependencies
+```
+npm install
 ```
 
 ### Run the app
